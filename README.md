@@ -108,4 +108,12 @@ This repository is not endorsed by or affiliated with Google in any way.
 
 ### License
 
-TODO license of this library
+All original content in this repository is published under the **CC0 1.0 Universal** license. You can find the full
+legal text in the LICENSE file of this repository - but what it means in a nutshell is that you can use code in this
+repository however you like, including in commercial products, but without any warranties of any kind.
+
+When doing so, you do **not** need to mention me or this repository in your finished product (e.g. an "About" screen in your app).
+However, if you consider any of the workarounds published here to be useful, feel free to raise awareness about these
+issues by sharing this repository with friends and colleagues. If you like, you can always buy me a coffee for the next time I'm working on this:
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/O4O0JF7FT)
